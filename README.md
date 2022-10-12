@@ -1,4 +1,4 @@
-# Projeto2-Estatistica
+# Projeto Estatistica
 Projeto de Estatística do curso de Ciência da Computação da UFPE - 2022.1
 
 ### Quem somos?
